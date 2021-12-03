@@ -1,0 +1,552 @@
+{
+    "accountName": "ChAccount",
+    "Addresses": [
+      {
+        "AddressDetail": "2 Bd Frères voisins, Issy les Moulineaux (92130) France",
+        "AdressId": "a122g000001gbz9AAA"
+      },
+      {
+        "AddressDetail": "45 Bd Frères voisins, Issy les Moulineaux (92130) France",
+        "AdressId": "a122i000001K6oiAAC"
+      }
+    ],
+    "currencyPicklist": [
+      {
+        "PicklistLabel": "Dollar américain",
+        "PicklistValue": "USD"
+      },
+      {
+        "PicklistLabel": "Euro",
+        "PicklistValue": "EUR"
+      }
+    ],
+    "currentAddresses": "a122g000001gbz9AAA",
+    "currentCurrency": "EUR",
+    "Header": [
+      " ",
+      "December 2021",
+      "January 2022",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "Products": [
+      {
+        "kits": [
+          {
+            "KitId": "a3I2i000000CSmLEAW",
+            "KitName": "BEINHEIM",
+            "ProductKits": [
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WLEA0",
+                "ProductKitPrice": "1660",
+                "ProductKitQuantitySelected": "22"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W0EAK",
+                "ProductKitPrice": "1240",
+                "ProductKitQuantitySelected": "77"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W3EAK",
+                "ProductKitPrice": "1300",
+                "ProductKitQuantitySelected": "77"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W6EAK",
+                "ProductKitPrice": "1360",
+                "ProductKitQuantitySelected": "65"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WAEA0",
+                "ProductKitPrice": "1440",
+                "ProductKitQuantitySelected": "65"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WDEA0",
+                "ProductKitPrice": "1500"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WGEA0",
+                "ProductKitPrice": "1560"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VpEAK",
+                "ProductKitPrice": "1020"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VmEAK",
+                "ProductKitPrice": "960"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VqEAK",
+                "ProductKitPrice": "1040",
+                "ProductKitQuantitySelected": "87"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VtEAK",
+                "ProductKitPrice": "1100"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VwEAK",
+                "ProductKitPrice": "1160"
+              }
+            ]
+          },
+          {
+            "KitId": "a3I2i000000CSmVEAW",
+            "KitName": "LESTREM",
+            "ProductKits": [
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_up",
+                "ProductKitId": "a3J2i000000L9SOEA0",
+                "ProductKitPrice": "250"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SfEAK",
+                "ProductKitPrice": "250"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SiEAK",
+                "ProductKitPrice": "250",
+                "ProductKitQuantitySelected": "876"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SlEAK",
+                "ProductKitPrice": "250"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SoEAK",
+                "ProductKitPrice": "250"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SrEAK",
+                "ProductKitPrice": "250"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SuEAK",
+                "ProductKitPrice": "250"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SxEAK",
+                "ProductKitPrice": "250",
+                "ProductKitQuantitySelected": "897"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T0EAK",
+                "ProductKitPrice": "250"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T3EAK",
+                "ProductKitPrice": "250"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T6EAK",
+                "ProductKitPrice": "250"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T9EAK",
+                "ProductKitPrice": "250"
+              }
+            ]
+          }
+        ],
+        "ProductId": "01t2i000004oROlAAM",
+        "ProductName": "COREX 200 PELLET",
+        "AverageTotalQuantitySelected": "1067.5 P/T",
+        "TotalQuantitySelected": "2166 T"
+      },
+      {
+        "kits": [
+          {
+            "KitId": "a3I2i000000CSmLEAW",
+            "KitName": "BEINHEIM",
+            "ProductKits": [
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W8EAK",
+                "ProductKitPrice": "1400"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VyEAK",
+                "ProductKitPrice": "1200"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W1EAK",
+                "ProductKitPrice": "1260"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W4EAK",
+                "ProductKitPrice": "1320"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W7EAK",
+                "ProductKitPrice": "1380",
+                "ProductKitQuantitySelected": "65"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WBEA0",
+                "ProductKitPrice": "1460",
+                "ProductKitQuantitySelected": "987"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WEEA0",
+                "ProductKitPrice": "1520",
+                "ProductKitQuantitySelected": "876"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WHEA0",
+                "ProductKitPrice": "1580"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VkEAK",
+                "ProductKitPrice": "920"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VnEAK",
+                "ProductKitPrice": "980"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VrEAK",
+                "ProductKitPrice": "1060"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VuEAK",
+                "ProductKitPrice": "1120"
+              }
+            ]
+          },
+          {
+            "KitId": "a3I2i000000CSmVEAW",
+            "KitName": "LESTREM",
+            "ProductKits": [
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9STEA0",
+                "ProductKitPrice": "150"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SdEAK",
+                "ProductKitPrice": "150",
+                "ProductKitQuantitySelected": "8678"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_up",
+                "ProductKitId": "a3J2i000000L9SgEAK",
+                "ProductKitPrice": "160"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SjEAK",
+                "ProductKitPrice": "150"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SmEAK",
+                "ProductKitPrice": "150",
+                "ProductKitQuantitySelected": "989"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SpEAK",
+                "ProductKitPrice": "150"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SsEAK",
+                "ProductKitPrice": "150"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SvEAK",
+                "ProductKitPrice": "150"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SyEAK",
+                "ProductKitPrice": "150",
+                "ProductKitQuantitySelected": "867"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T1EAK",
+                "ProductKitPrice": "150"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T4EAK",
+                "ProductKitPrice": "150"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T7EAK",
+                "ProductKitPrice": "150"
+              }
+            ]
+          }
+        ],
+        "ProductId": "01t2i000004oROqAAM",
+        "ProductName": "COREX 200 MASH",
+        "AverageTotalQuantitySelected": "801.6666666666666 P/T",
+        "TotalQuantitySelected": "12462 T"
+      },
+      {
+        "kits": [ 
+          {
+            "KitId": "a3I2i000000CSmLEAW",
+            "KitName": "BEINHEIM",
+            "ProductKits": [
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WKEA0",
+                "ProductKitPrice": "1640"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VzEAK",
+                "ProductKitPrice": "1220"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W2EAK",
+                "ProductKitPrice": "1280"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W5EAK",
+                "ProductKitPrice": "1340",
+                "ProductKitQuantitySelected": "675"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9W9EAK",
+                "ProductKitPrice": "1420"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WCEA0",
+                "ProductKitPrice": "1480",
+                "ProductKitQuantitySelected": "867"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9WFEA0",
+                "ProductKitPrice": "1540"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VjEAK",
+                "ProductKitPrice": "900"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VlEAK",
+                "ProductKitPrice": "940"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VoEAK",
+                "ProductKitPrice": "1000"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VsEAK",
+                "ProductKitPrice": "1080"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9VvEAK",
+                "ProductKitPrice": "1140"
+              }
+            ]
+          },
+          {
+            "KitId": "a3I2i000000CSmVEAW",
+            "KitName": "LESTREM",
+            "ProductKits": [
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_down",
+                "ProductKitId": "a3J2i000000L9SYEA0",
+                "ProductKitPrice": "130"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SeEAK",
+                "ProductKitPrice": "130"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9ShEAK",
+                "ProductKitPrice": "130",
+                "ProductKitQuantitySelected": "8767"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SkEAK",
+                "ProductKitPrice": "130"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SnEAK",
+                "ProductKitPrice": "130"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SqEAK",
+                "ProductKitPrice": "130"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9StEAK",
+                "ProductKitPrice": "130"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SwEAK",
+                "ProductKitPrice": "130"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9SzEAK",
+                "ProductKitPrice": "130",
+                "ProductKitQuantitySelected": "87"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T2EAK",
+                "ProductKitPrice": "130"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T5EAK",
+                "ProductKitPrice": "130"
+              },
+              {
+                "HideQuantitySelection": false,
+                "ProductKitDelta": "/resource/trending_flat",
+                "ProductKitId": "a3J2i000000L9T8EAK",
+                "ProductKitPrice": "130"
+              }
+            ]
+          }
+        ],
+        "ProductId": "01t2i000004oROvAAM",
+        "ProductName": "MULUREX BE",
+        "AverageTotalQuantitySelected": "770 P/T",
+        "TotalQuantitySelected": "10396 T"
+      }
+    ]
+  }
